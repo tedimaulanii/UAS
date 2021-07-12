@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/android-fhir-master.iml" filepath="$PROJECT_DIR$/.idea/android-fhir-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-fhir-master.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/android-fhir-master.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datacapture/android-fhir-master.datacapture.iml" filepath="$PROJECT_DIR$/.idea/modules/datacapture/android-fhir-master.datacapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datacapturegallery/android-fhir-master.datacapturegallery.iml" filepath="$PROJECT_DIR$/.idea/modules/datacapturegallery/android-fhir-master.datacapturegallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/engine/android-fhir-master.engine.iml" filepath="$PROJECT_DIR$/.idea/modules/engine/android-fhir-master.engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reference/android-fhir-master.reference.iml" filepath="$PROJECT_DIR$/.idea/modules/reference/android-fhir-master.reference.iml" />
+    </modules>
+  </component>
+</project>

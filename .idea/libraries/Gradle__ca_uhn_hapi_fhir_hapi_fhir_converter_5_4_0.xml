@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ca.uhn.hapi.fhir:hapi-fhir-converter:5.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-converter/5.4.0/a1df5b1ff29877cc13d63b196a15a1f340652ca/hapi-fhir-converter-5.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-converter/5.4.0/4718ef1eab7ea1d97b58f8855653d2fffee605dd/hapi-fhir-converter-5.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ca.uhn.hapi.fhir/hapi-fhir-converter/5.4.0/dbcd9ebe765b47ebc383a3be6a68ca49a796d9e0/hapi-fhir-converter-5.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

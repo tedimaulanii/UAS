@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_details_layout.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\patient_details_layout.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_list_content.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\patient_list_content.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_list_view.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\patient_list_view.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add_patient_fragment.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\add_patient_fragment.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_list_item_view.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\patient_list_item_view.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patient_detail.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\patient_detail.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\observation_list_view.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\observation_list_view.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\observation_list_item.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\observation_list_item.xml"
+    },
+    {
+        "merged": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_patient_list.xml",
+        "source": "E:\\android-fhir-master (1)\\android-fhir-master\\reference\\src\\main\\res\\layout\\fragment_patient_list.xml"
+    }
+]
